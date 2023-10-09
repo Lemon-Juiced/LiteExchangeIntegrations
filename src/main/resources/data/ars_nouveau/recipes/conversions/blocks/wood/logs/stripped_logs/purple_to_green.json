@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lexchange:balance_stone"
+    },
+    {
+      "item": "ars_nouveau:stripped_purple_archwood_log"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:stripped_green_archwood_log",
+    "count": 1
+  }
+}

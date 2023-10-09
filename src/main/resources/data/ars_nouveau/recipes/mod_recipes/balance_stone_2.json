@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M#M",
+    "#S#",
+    "M#M"
+  ],
+  "key": {
+    "#": {
+      "item": "lexchange:balance_shard"
+    },
+    "M": {
+      "item": "ars_nouveau:manipulation_essence"
+    },
+    "S": {
+      "item": "lexchange:inert_stone"
+    }
+  },
+  "result": {
+    "item": "lexchange:balance_stone",
+    "count": 1
+  }
+}

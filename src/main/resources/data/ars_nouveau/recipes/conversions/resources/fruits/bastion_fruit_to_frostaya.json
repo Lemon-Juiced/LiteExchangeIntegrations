@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lexchange:balance_stone"
+    },
+    {
+      "item": "ars_nouveau:bastion_pod"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:frostaya_pod",
+    "count": 1
+  }
+}

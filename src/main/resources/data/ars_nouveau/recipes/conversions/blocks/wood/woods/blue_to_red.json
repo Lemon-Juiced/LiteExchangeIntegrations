@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lexchange:balance_stone"
+    },
+    {
+      "item": "ars_nouveau:blue_archwood_wood"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:red_archwood_wood",
+    "count": 1
+  }
+}
