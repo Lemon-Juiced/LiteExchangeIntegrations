@@ -82,10 +82,10 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-1.20.1-forge:15.0.0.15")
 
     // Lemon Core
-    runtimeOnly fg.deobf("curse.maven:lemon-core-840168:4714868")
+    runtimeOnly fg.deobf("curse.maven:lemon-core-840168:4767911")
 
     // Lite Exchange
-    runtimeOnly fg.deobf("curse.maven:lite_exchange-700568:4684671")
+    runtimeOnly fg.deobf("curse.maven:lite_exchange-700568:4788963")
 
     /* Compat Mods */
     // Ars Nouveau
